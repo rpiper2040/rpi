@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Circuit Diagram, cdlibrary.dll 4.0.0.0 -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" width="680" height="320" xmlns="http://www.w3.org/2000/svg">
-	<text x="290" y="290" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 290, 290)">add more buttons as desired</text>
-	<line x1="280" y1="240" x2="280" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+<svg version="1.1" width="680" height="380" xmlns="http://www.w3.org/2000/svg">
+	<text x="210" y="340" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 210, 340)">https://github.com/rpiper2040/rpi-pico/blob/main/soundboard/main.py</text>
+	<text x="210" y="320" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 210, 320)">files on root of microSD, 0001.mp3, 0002.mp3 etc</text>
+	<line x1="190" y1="220" x2="190" y2="240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="120" y1="220" x2="190" y2="220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="210" y="300" style="font-family:Arial;font-size:11px;text-anchor:start" dominant-baseline="middle" transform="rotate(0, 210, 300)">add more buttons as desired</text>
 	<line x1="280" y1="210" x2="280" y2="240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="210" y1="250" x2="280" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="90" y1="210" x2="390" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="90" y1="180" x2="90" y2="210" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="80" y1="250" x2="150" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="80" y1="170" x2="80" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="120" y1="190" x2="120" y2="220" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="80" y1="170" x2="80" y2="240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="80" y1="170" x2="120" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="90" y1="180" x2="120" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="80" y1="140" x2="120" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
@@ -67,9 +69,9 @@
 	<line x1="342" y1="93" x2="342" y2="117" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="336" y1="99" x2="336" y2="111" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<line x1="336" y1="105" x2="342" y2="105" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="150" y1="250" x2="160" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<line x1="200" y1="250" x2="210" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
-	<path d="M 160,250 L 160,258 L 145,273 L 215,273 L 200,258 L 160,258 L 160,242 L 200,242 L 200,258" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="80" y1="240" x2="115" y2="240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="155" y1="240" x2="190" y2="240" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 115,240 L 115,248 L 100,263 L 170,263 L 155,248 L 115,248 L 115,232 L 155,232 L 155,248" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
 	<text x="180" y="100" style="font-family:Arial;font-size:11px;text-anchor:middle" dominant-baseline="middle" transform="rotate(0, 180, 100)">DFPlayer mini</text>
 	<rect x="130" y="110" width="100" height="90" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
 	<line x1="120" y1="120" x2="130" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
